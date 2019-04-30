@@ -1,0 +1,13 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ascii0                  301B
+//	ascii1                  301C
+//	done                    3013
+//	else                    3012
+//	expmask                 301E
+//	goprint                 3007
+//	loop                    300C
+//	masks                   301F
+//	number                  301A
+//	space                   301D
+//	start                   3003

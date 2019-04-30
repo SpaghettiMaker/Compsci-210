@@ -1,0 +1,28 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ascii                   30CC
+//	ascii0                  30CD
+//	ascii1                  30CE
+//	buffer                  3068
+//	check1                  3014
+//	check2                  3024
+//	clear                   3004
+//	done                    305E
+//	else                    305D
+//	goprint                 3055
+//	invalid                 3109
+//	invalid_input           3021
+//	loop                    300D
+//	loop2                   3057
+//	masks                   30D1
+//	max_size                30D0
+//	minus                   3066
+//	negate                  3049
+//	output                  3036
+//	plus                    3065
+//	prompt                  30E0
+//	range                   3067
+//	space                   30CF
+//	specialcase             3051
+//	start                   3000
+//	valid                   303E
